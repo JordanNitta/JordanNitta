@@ -2,10 +2,9 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **Ecom Store**
-
 - 🌱 I’m currently learning **Vite, Typescript**
-
 - 📫 How to reach me **Jordannittarodrigues@gmail.com**
+-  Project recently built: <a href='https://www.starbucks-clone.com/'>Starbucks Clone</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
