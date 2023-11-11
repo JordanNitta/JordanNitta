@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jordan Nitta-Rodrigues</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Ecom Store**
-- 🌱 I’m currently learning **Vite, Typescript**
+- 🔭 Pursuing a Bachelor in Software Engineering
+- 🔭 I’m currently learning Angular and Typescript
 - 📫 How to reach me **Jordannittarodrigues@gmail.com**
 -  Project recently built: <a href='https://www.starbucks-clone.com/'>Starbucks Clone</a>
 
